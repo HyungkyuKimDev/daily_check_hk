@@ -8,6 +8,6 @@ Project Build Period : 2024/08/19 ~ Still Now!
 
 Estimated Dates (Trying to check...)
 
-Learning of Spring Boot : 
-Building The Project : 
-CI/CD & Presentation Preparation : 
+1. Learning of Spring Boot : 
+2. Building The Project : 
+3. CI/CD & Presentation Preparation : 
